@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GBM28
+- 👀 I’m interested in Cloud Capability (Azure and AWS mainly) and quantum coding
+- 🌱 I’m currently learning Azure/AWS Solution Architecture, Q# and refreshing in a couple of other languages
